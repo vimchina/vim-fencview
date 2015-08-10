@@ -7,13 +7,14 @@ mirror of vim script: [fencview.vim](http://www.vim.org/scripts/script.php?scrip
 
 ## usage
 
-Please read file: fencview.vim in plugin dir.
+Please read file 'fencview.vim' for detail in plugin dir.
 
 `FencAutoDetect` : auto detect encoding and prompt to select an encoding
 
 ## options
 
 `let g:fencview_autodetect = 1`: auto detect file encoding when opening a file (default: 0)
+
 `let g:fencview_auto_patterns='*.txt,*.md,*.org,*.htm{l\=}'`: set file pattern (default: '*.txt,*.htm{l\=}')
 
 ## dependent
